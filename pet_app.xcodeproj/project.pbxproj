@@ -290,6 +290,7 @@
 				CODE_SIGN_ENTITLEMENTS = pet_app/pet_app.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 2GA837VAD5;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = pet_app/Info.plist;
@@ -323,6 +324,7 @@
 				CODE_SIGN_ENTITLEMENTS = pet_app/pet_app.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 2GA837VAD5;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = pet_app/Info.plist;
